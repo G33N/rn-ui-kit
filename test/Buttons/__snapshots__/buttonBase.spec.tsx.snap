@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button base Rendering should match to snapshot - with color prop 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#000000",
+      "borderRadius": 8,
+      "opacity": 1,
+      "paddingBottom": 16,
+      "paddingLeft": 16,
+      "paddingRight": 16,
+      "paddingTop": 16,
+      "width": "100%",
+    }
+  }
+  testID="ButtonTest"
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Inter",
+          "fontSize": 24.90566037735849,
+          "fontStyle": "normal",
+          "fontWeight": "600",
+          "letterSpacing": 0.25,
+          "lineHeight": 20,
+          "textAlign": "center",
+        },
+      ]
+    }
+  >
+    test label
+  </Text>
+</View>
+`;
+
+exports[`Button base Rendering should match to snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#06C263",
+      "borderRadius": 8,
+      "opacity": 1,
+      "paddingBottom": 16,
+      "paddingLeft": 16,
+      "paddingRight": 16,
+      "paddingTop": 16,
+      "width": "100%",
+    }
+  }
+  testID="ButtonTest"
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Inter",
+          "fontSize": 24.90566037735849,
+          "fontStyle": "normal",
+          "fontWeight": "600",
+          "letterSpacing": 0.25,
+          "lineHeight": 20,
+          "textAlign": "center",
+        },
+      ]
+    }
+  >
+    test label
+  </Text>
+</View>
+`;

@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "esModuleInterop": true,
+        "skipLibCheck": true, // tsc check don't exclude node_modules
+        "noEmit": true,
+        "strict": true
+    },
+    "include": ["src/**/*", "./extend-expect.d.ts"],
+    "exclude": ["node_modules", "**/*.spec.*"]
+}
