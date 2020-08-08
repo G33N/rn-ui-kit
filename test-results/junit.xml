@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="36" failures="0" time="24.414">
-  <testsuite name="Button base" errors="0" failures="0" skipped="0" timestamp="2020-08-08T17:49:34" time="19.281" tests="6">
-    <testcase classname="Button base Rendering should match to snapshot" name="Button base Rendering should match to snapshot" time="0.169">
+<testsuites name="jest tests" tests="36" failures="0" time="8.908">
+  <testsuite name="Button base" errors="0" failures="0" skipped="0" timestamp="2020-08-08T17:52:34" time="7.802" tests="6">
+    <testcase classname="Button base Rendering should match to snapshot" name="Button base Rendering should match to snapshot" time="0.075">
     </testcase>
-    <testcase classname="Button base Rendering should match to snapshot - with color prop" name="Button base Rendering should match to snapshot - with color prop" time="0.008">
+    <testcase classname="Button base Rendering should match to snapshot - with color prop" name="Button base Rendering should match to snapshot - with color prop" time="0.011">
     </testcase>
-    <testcase classname="Button base Rendering should render with a label" name="Button base Rendering should render with a label" time="0.007">
+    <testcase classname="Button base Rendering should render with a label" name="Button base Rendering should render with a label" time="0.008">
     </testcase>
-    <testcase classname="Button base Rendering should render with a TestID" name="Button base Rendering should render with a TestID" time="0.001">
+    <testcase classname="Button base Rendering should render with a TestID" name="Button base Rendering should render with a TestID" time="0.002">
     </testcase>
     <testcase classname="Button base Interaction onPressHandler should call onPress" name="Button base Interaction onPressHandler should call onPress" time="0.002">
     </testcase>
     <testcase classname="Button base Interaction onPressHandler should not call onPress on disabled" name="Button base Interaction onPressHandler should not call onPress on disabled" time="0.001">
     </testcase>
   </testsuite>
-  <testsuite name="Button Text" errors="0" failures="0" skipped="0" timestamp="2020-08-08T17:49:34" time="19.286" tests="6">
-    <testcase classname="Button Text Rendering should match to snapshot" name="Button Text Rendering should match to snapshot" time="0.174">
+  <testsuite name="Button Outlined" errors="0" failures="0" skipped="0" timestamp="2020-08-08T17:52:34" time="8.288" tests="6">
+    <testcase classname="Button Outlined Rendering should match to snapshot" name="Button Outlined Rendering should match to snapshot" time="0.042">
     </testcase>
-    <testcase classname="Button Text Rendering should match to snapshot - with color prop" name="Button Text Rendering should match to snapshot - with color prop" time="0.008">
+    <testcase classname="Button Outlined Rendering should match to snapshot - with color prop" name="Button Outlined Rendering should match to snapshot - with color prop" time="0.008">
     </testcase>
-    <testcase classname="Button Text Rendering should render with a label" name="Button Text Rendering should render with a label" time="0.007">
-    </testcase>
-    <testcase classname="Button Text Rendering should render with a TestID" name="Button Text Rendering should render with a TestID" time="0.001">
-    </testcase>
-    <testcase classname="Button Text Interaction onPressHandler should call onPress" name="Button Text Interaction onPressHandler should call onPress" time="0.002">
-    </testcase>
-    <testcase classname="Button Text Interaction onPressHandler should not call onPress on disabled" name="Button Text Interaction onPressHandler should not call onPress on disabled" time="0.001">
-    </testcase>
-  </testsuite>
-  <testsuite name="Button inverted" errors="0" failures="0" skipped="0" timestamp="2020-08-08T17:49:34" time="19.288" tests="6">
-    <testcase classname="Button inverted Rendering should match to snapshot" name="Button inverted Rendering should match to snapshot" time="0.173">
-    </testcase>
-    <testcase classname="Button inverted Rendering should match to snapshot - with color prop" name="Button inverted Rendering should match to snapshot - with color prop" time="0.008">
-    </testcase>
-    <testcase classname="Button inverted Rendering should render with a label" name="Button inverted Rendering should render with a label" time="0.006">
-    </testcase>
-    <testcase classname="Button inverted Rendering should render with a TestID" name="Button inverted Rendering should render with a TestID" time="0.002">
-    </testcase>
-    <testcase classname="Button inverted Interaction onPressHandler should call onPress" name="Button inverted Interaction onPressHandler should call onPress" time="0.002">
-    </testcase>
-    <testcase classname="Button inverted Interaction onPressHandler should not call onPress on disabled" name="Button inverted Interaction onPressHandler should not call onPress on disabled" time="0.001">
-    </testcase>
-  </testsuite>
-  <testsuite name="Button Link" errors="0" failures="0" skipped="0" timestamp="2020-08-08T17:49:34" time="19.286" tests="6">
-    <testcase classname="Button Link Rendering should match to snapshot" name="Button Link Rendering should match to snapshot" time="0.171">
-    </testcase>
-    <testcase classname="Button Link Rendering should match to snapshot - with color prop" name="Button Link Rendering should match to snapshot - with color prop" time="0.007">
-    </testcase>
-    <testcase classname="Button Link Rendering should render with a label" name="Button Link Rendering should render with a label" time="0.008">
-    </testcase>
-    <testcase classname="Button Link Rendering should render with a TestID" name="Button Link Rendering should render with a TestID" time="0.001">
-    </testcase>
-    <testcase classname="Button Link Interaction onPressHandler should call onPress" name="Button Link Interaction onPressHandler should call onPress" time="0.003">
-    </testcase>
-    <testcase classname="Button Link Interaction onPressHandler should not call onPress on disabled" name="Button Link Interaction onPressHandler should not call onPress on disabled" time="0.001">
-    </testcase>
-  </testsuite>
-  <testsuite name="Button Outlined" errors="0" failures="0" skipped="0" timestamp="2020-08-08T17:49:34" time="19.309" tests="6">
-    <testcase classname="Button Outlined Rendering should match to snapshot" name="Button Outlined Rendering should match to snapshot" time="0.181">
-    </testcase>
-    <testcase classname="Button Outlined Rendering should match to snapshot - with color prop" name="Button Outlined Rendering should match to snapshot - with color prop" time="0.01">
-    </testcase>
-    <testcase classname="Button Outlined Rendering should render with a label" name="Button Outlined Rendering should render with a label" time="0.015">
+    <testcase classname="Button Outlined Rendering should render with a label" name="Button Outlined Rendering should render with a label" time="0.005">
     </testcase>
     <testcase classname="Button Outlined Rendering should render with a TestID" name="Button Outlined Rendering should render with a TestID" time="0.001">
     </testcase>
     <testcase classname="Button Outlined Interaction onPressHandler should call onPress" name="Button Outlined Interaction onPressHandler should call onPress" time="0.002">
     </testcase>
-    <testcase classname="Button Outlined Interaction onPressHandler should not call onPress on disabled" name="Button Outlined Interaction onPressHandler should not call onPress on disabled" time="0.001">
+    <testcase classname="Button Outlined Interaction onPressHandler should not call onPress on disabled" name="Button Outlined Interaction onPressHandler should not call onPress on disabled" time="0">
     </testcase>
   </testsuite>
-  <testsuite name="Button OutlinedInverted" errors="0" failures="0" skipped="0" timestamp="2020-08-08T17:49:34" time="19.345" tests="6">
-    <testcase classname="Button OutlinedInverted Rendering should match to snapshot" name="Button OutlinedInverted Rendering should match to snapshot" time="0.222">
+  <testsuite name="Button inverted" errors="0" failures="0" skipped="0" timestamp="2020-08-08T17:52:34" time="8.295" tests="6">
+    <testcase classname="Button inverted Rendering should match to snapshot" name="Button inverted Rendering should match to snapshot" time="0.043">
     </testcase>
-    <testcase classname="Button OutlinedInverted Rendering should match to snapshot - with color prop" name="Button OutlinedInverted Rendering should match to snapshot - with color prop" time="0.015">
+    <testcase classname="Button inverted Rendering should match to snapshot - with color prop" name="Button inverted Rendering should match to snapshot - with color prop" time="0.005">
     </testcase>
-    <testcase classname="Button OutlinedInverted Rendering should render with a label" name="Button OutlinedInverted Rendering should render with a label" time="0.01">
+    <testcase classname="Button inverted Rendering should render with a label" name="Button inverted Rendering should render with a label" time="0.005">
     </testcase>
-    <testcase classname="Button OutlinedInverted Rendering should render with a TestID" name="Button OutlinedInverted Rendering should render with a TestID" time="0.002">
+    <testcase classname="Button inverted Rendering should render with a TestID" name="Button inverted Rendering should render with a TestID" time="0">
     </testcase>
-    <testcase classname="Button OutlinedInverted Interaction onPressHandler should call onPress" name="Button OutlinedInverted Interaction onPressHandler should call onPress" time="0.002">
+    <testcase classname="Button inverted Interaction onPressHandler should call onPress" name="Button inverted Interaction onPressHandler should call onPress" time="0.002">
+    </testcase>
+    <testcase classname="Button inverted Interaction onPressHandler should not call onPress on disabled" name="Button inverted Interaction onPressHandler should not call onPress on disabled" time="0">
+    </testcase>
+  </testsuite>
+  <testsuite name="Button Link" errors="0" failures="0" skipped="0" timestamp="2020-08-08T17:52:34" time="8.284" tests="6">
+    <testcase classname="Button Link Rendering should match to snapshot" name="Button Link Rendering should match to snapshot" time="0.042">
+    </testcase>
+    <testcase classname="Button Link Rendering should match to snapshot - with color prop" name="Button Link Rendering should match to snapshot - with color prop" time="0.005">
+    </testcase>
+    <testcase classname="Button Link Rendering should render with a label" name="Button Link Rendering should render with a label" time="0.004">
+    </testcase>
+    <testcase classname="Button Link Rendering should render with a TestID" name="Button Link Rendering should render with a TestID" time="0.001">
+    </testcase>
+    <testcase classname="Button Link Interaction onPressHandler should call onPress" name="Button Link Interaction onPressHandler should call onPress" time="0.001">
+    </testcase>
+    <testcase classname="Button Link Interaction onPressHandler should not call onPress on disabled" name="Button Link Interaction onPressHandler should not call onPress on disabled" time="0">
+    </testcase>
+  </testsuite>
+  <testsuite name="Button OutlinedInverted" errors="0" failures="0" skipped="0" timestamp="2020-08-08T17:52:34" time="8.322" tests="6">
+    <testcase classname="Button OutlinedInverted Rendering should match to snapshot" name="Button OutlinedInverted Rendering should match to snapshot" time="0.042">
+    </testcase>
+    <testcase classname="Button OutlinedInverted Rendering should match to snapshot - with color prop" name="Button OutlinedInverted Rendering should match to snapshot - with color prop" time="0.004">
+    </testcase>
+    <testcase classname="Button OutlinedInverted Rendering should render with a label" name="Button OutlinedInverted Rendering should render with a label" time="0.003">
+    </testcase>
+    <testcase classname="Button OutlinedInverted Rendering should render with a TestID" name="Button OutlinedInverted Rendering should render with a TestID" time="0.001">
+    </testcase>
+    <testcase classname="Button OutlinedInverted Interaction onPressHandler should call onPress" name="Button OutlinedInverted Interaction onPressHandler should call onPress" time="0.004">
     </testcase>
     <testcase classname="Button OutlinedInverted Interaction onPressHandler should not call onPress on disabled" name="Button OutlinedInverted Interaction onPressHandler should not call onPress on disabled" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="Button Text" errors="0" failures="0" skipped="0" timestamp="2020-08-08T17:52:34" time="8.398" tests="6">
+    <testcase classname="Button Text Rendering should match to snapshot" name="Button Text Rendering should match to snapshot" time="0.051">
+    </testcase>
+    <testcase classname="Button Text Rendering should match to snapshot - with color prop" name="Button Text Rendering should match to snapshot - with color prop" time="0.006">
+    </testcase>
+    <testcase classname="Button Text Rendering should render with a label" name="Button Text Rendering should render with a label" time="0.005">
+    </testcase>
+    <testcase classname="Button Text Rendering should render with a TestID" name="Button Text Rendering should render with a TestID" time="0.001">
+    </testcase>
+    <testcase classname="Button Text Interaction onPressHandler should call onPress" name="Button Text Interaction onPressHandler should call onPress" time="0.001">
+    </testcase>
+    <testcase classname="Button Text Interaction onPressHandler should not call onPress on disabled" name="Button Text Interaction onPressHandler should not call onPress on disabled" time="0.001">
     </testcase>
   </testsuite>
 </testsuites>
