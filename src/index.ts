@@ -4,3 +4,5 @@ export { default as ButtonLink } from './Buttons/Link';
 export { default as ButtonInverted } from './Buttons/Inverted';
 export { default as ButtonOutlined } from './Buttons/Outlined';
 export { default as ButtonOutlinedInverted } from './Buttons/OutlinedInverted';
+
+export { default as Theme } from './Theme';
